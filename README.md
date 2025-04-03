@@ -1,6 +1,5 @@
 ## Executive-Retail-Sales-Analytics-Dashboard.
-
-<img src="Images/Maven Supplies Logo.png" width="2000" height="200"/>&nbsp;
+![Maven Supplies Logo](https://github.com/user-attachments/assets/277b5ec0-c376-4705-bf3e-3e33e1bb85d3)
 
 ## Overview
 
@@ -12,7 +11,9 @@ This repository contains a Tableau dashboard that provides insights into executi
 The analysis in this project is based on the Maven Supplies Raw dataset. The dataset includes sales, orders, and returns data, which were used to generate insights.
 
 ## Tool used :
-<img src="Images/Tableau logo.png" width="300" height="150"/>&nbsp;
+
+![Tableau logo](https://github.com/user-attachments/assets/e2928c2c-c835-474e-827a-7800a4a0bc49)
+
 
 
 ## Key Insights
