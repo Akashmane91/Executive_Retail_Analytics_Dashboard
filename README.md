@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/akash.mane2940/viz/Retailstoredashboardnew11/Dashboard1
+
 ## Executive-Retail-Sales-Analytics-Dashboard.
 ![Maven Supplies Logo](https://github.com/user-attachments/assets/277b5ec0-c376-4705-bf3e-3e33e1bb85d3)
 
